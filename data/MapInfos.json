@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"宫殿","order":1,"parentId":0,"scrollX":546.5,"scrollY":362},
+{"id":2,"expanded":false,"name":"test","order":2,"parentId":1,"scrollX":546.5,"scrollY":362},
+{"id":3,"expanded":false,"name":"宫殿2","order":3,"parentId":1,"scrollX":546.5,"scrollY":362},
+{"id":4,"expanded":false,"name":"BOSS","order":4,"parentId":0,"scrollX":546.5,"scrollY":362.5}
+]
